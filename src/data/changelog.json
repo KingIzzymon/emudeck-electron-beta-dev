@@ -24,6 +24,12 @@
     "image": "true"
   },
   {
+    "title": "Cloud Services Manager",
+    "type": "STEAMOS",
+    "description": "- Manage shortcuts to open various webapps including: xCloud, Netflix, Spotify, etc.<br/>",
+    "image": "false"
+  },
+  {
     "title": "Bug fixes & Small Features",
     "type": "STEAMOS",
     "description": "- Fixed PS3 Pkg parser so it doesn't grab discs in the hdd<br/>- GyroDSU working at last.<br/>- Steam Shortcut path bulk update<br/>- Fix DOSBox-pure config directory<br/>- Fix Vita3K Launcher<br/>- Fix EmuDeck Compressor tool with rvz files<br/>- EasyRPG SRM parser<br/>- Recursive SRM parsers are back<br/>- Added ESDE 2.0 beta<br/>- CSO Format support for PPSSPP",
